@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+#weather div {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    display: inline-block;
+}
